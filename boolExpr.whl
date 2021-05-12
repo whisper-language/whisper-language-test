@@ -1,0 +1,6 @@
+// 布尔表达式
+assert(true || false);
+assert(!false);
+assert(true && true);
+assert(!true || !false);
+assert(true && (true || false));
